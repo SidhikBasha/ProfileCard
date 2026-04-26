@@ -21,7 +21,8 @@ Practice basic layout design using Flexbox and card UI structure.
 
 📸 Preview
 
-Screenshot 2026-04-26 190449
+<img width="1920" height="1080" alt="Screenshot 2026-04-26 190449" src="https://github.com/user-attachments/assets/5e79e44a-1823-400f-ac22-1b82c0da69a4" />
+
 
 🌐 Live Demo
 
